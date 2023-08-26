@@ -12,4 +12,13 @@ What is the term Deposit?
 
 Term deposits also called fixed deposits, are the cash investments made for a specific time period ranging from 1 month to 5 years for predetermined fixed interest rates. The fixed interest rates offered for term deposits are higher than the regular interest rates for savings accounts. The customers receive the total amount (investment plus the interest) at the end of the maturity period. Also, the money can only be withdrawn at the end of the maturity period. Withdrawing money before that will result in an added penalty associated, and the customer will not receive any interest returns.
 
-As a data analyst, target is to do end to end EDA on this bank telemarketing campaign data set to infer knowledge that where bank has to put more effort to improve it's positive response rate.
+As a data analyst, target is to do end to end EDA on this bank telemarketing campaign data set using Python to infer knowledge that where bank has to put more effort to improve it's positive response rate.
+
+EDA Exploration using Python done in Google Collab
+
+
+
+
+
+
+
