@@ -12,7 +12,7 @@ Term deposits also called fixed deposits, are the cash investments made for a sp
 
 Overall objective is to do end to end EDA on this bank telemarketing campaign data set  to infer knowledge that where bank has to put more effort to improve it's positive response rate.
 
-Skills learned: Data collection, Data cleaning, EDA analysis, Data Visualization.
+Skills learned: Data loading, Data cleaning and preprocessing, EDA analysis, Data Visualization.
 
 Technology tools : Python, Google Collab.
 
